@@ -1,7 +1,24 @@
 {
   "name": "thailottojs",
-  "version": "1.0.2",
-  "description": "Data Matrix Parser for thai lotto",
+  "version": "1.0.3",
+  "description": "Data Matrix Parser for Thai lottery tickets",
   "main": "main.js",
-  "license": "MIT"
+  "types": "main.d.ts",
+  "type": "module",
+  "license": "MIT",
+  "author": "Nutchanon Ninyawee <me@nutchanon.org>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ninyawee/thailottojs"
+  },
+  "homepage": "https://github.com/ninyawee/thailottojs",
+  "bugs": "https://github.com/ninyawee/thailottojs/issues",
+  "keywords": [
+    "thai",
+    "lottery",
+    "lotto",
+    "data-matrix",
+    "parser",
+    "thailand"
+  ]
 }
